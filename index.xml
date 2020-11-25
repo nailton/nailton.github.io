@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nailton Sousa</title>
-    <link>nailton.github.io/</link>
+    <link>https://nailton.com.br/</link>
     <description>Recent content on Nailton Sousa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="nailton.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nailton.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projetos</title>
-      <link>nailton.github.io/projetos/</link>
+      <link>https://nailton.com.br/projetos/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>nailton.github.io/projetos/</guid>
+      <guid>https://nailton.com.br/projetos/</guid>
       <description>Contribuições Open Source  Wordpress Generate Salts: Um plug-in Sublime Text 3 para gerar novas chaves salt do WordPress. Tecnologia utilizada: Python  Projetos Yupay - É um sistema de pagamento, conta digital e transferência P2P É um projeto de carteira digital, assim como o PicPay ou Ame digital. Com aplicativos nativos para iOS e Android e painéis para gestão Yupay e do Lojista &amp;ldquo;Partner&amp;rdquo;. Tenho trabalhado principalmente no dashboard administrativo interno, onde é possível ver a gestão financeira, clientes, entradas e saídas.</description>
     </item>
     
     <item>
       <title>Sobre</title>
-      <link>nailton.github.io/sobre/</link>
+      <link>https://nailton.com.br/sobre/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>nailton.github.io/sobre/</guid>
+      <guid>https://nailton.com.br/sobre/</guid>
       <description>Olá, meu nome é Nailton Sousa. Aqui está um resumo da minha carreira profissional e experiências relevantes no mundo web.
 Minha maior experiência foi em agências, como desenvolvedor, criando sites puros ou para wordpress - aqui explorei bastante coisas no universo desse cms.
 Aprendi na prática a criar projetos com agilidade e qualidade, noções de design, marketing, noções de ferramentas como Adobe Photoshop, Adobe XD, Adobe Illustrator para realizar minhas tarefas.</description>
